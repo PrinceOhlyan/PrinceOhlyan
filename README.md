@@ -1,16 +1,21 @@
-## Hi there 👋
+Prince Ohlyan
+🔐 Cybersecurity Specialist | SOC Analyst
+I am a passionate SOC Analyst with a strong focus on cybersecurity 🔍. I thrive on protecting systems and networks from evolving cyber threats, ensuring the integrity, confidentiality, and availability of critical infrastructure. 🚨
 
-<!--
-**PrinceOhlyan/PrinceOhlyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My expertise spans:
 
-Here are some ideas to get you started:
+🛡️ Threat Monitoring & Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Incident Response & Forensics
+
+⚙️ Security Operations Center (SOC) Management
+
+🧑‍💻 Vulnerability Assessment & Management
+
+🔒 Real-time Threat Intelligence
+
+I specialize in leveraging cutting-edge tools and techniques to detect, analyze, and mitigate threats in real-time. Always eager to learn and adapt, I stay updated with the latest trends to anticipate and counteract emerging security risks. 🌐
+
+🔑 "Security is not a product, but a process." - Bruce Schneier
+
+
